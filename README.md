@@ -1,5 +1,5 @@
 # SMS-News
-Current events texting service using Plivo SMS, Heroku cloud, and Wikipedia current events. Used current event data from https://en.wikipedia.org/wiki/Portal:Current_events. Parsed data with BeautifulSoup. Followed instructions on Plivo and Heroku websites to set up web server and start python code. The web server is set up at sms-news.herokuapp.com. I have not paid for Plivo, so random phone numbers cannot use this service.
+Current events texting service using Plivo SMS, Heroku cloud, and Wikipedia current events. Used current event data from https://en.wikipedia.org/wiki/Portal:Current_events. Parsed data with BeautifulSoup. Followed instructions on Plivo and Heroku websites to set up web server and start python code. The web server is set up at http://sms-news.herokuapp.com. I have not paid for Plivo, so random phone numbers cannot use this service.
 
 ## Screenshots
 ### Outbound and Incoming Texts
